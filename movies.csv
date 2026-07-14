@@ -1,0 +1,51 @@
+Movie,Genre,Language,Rating,Year
+Avengers: Endgame,Action,English,8.4,2019
+John Wick 4,Action,English,8.2,2023
+The Dark Knight,Action,English,9.0,2008
+Mission Impossible Dead Reckoning,Action,English,7.8,2023
+Mad Max Fury Road,Action,English,8.1,2015
+Interstellar,Sci-Fi,English,8.7,2014
+Inception,Sci-Fi,English,8.8,2010
+The Martian,Sci-Fi,English,8.0,2015
+Dune,Sci-Fi,English,8.0,2021
+Arrival,Sci-Fi,English,7.9,2016
+Titanic,Romance,English,7.9,1997
+The Notebook,Romance,English,7.8,2004
+La La Land,Romance,English,8.0,2016
+Me Before You,Romance,English,7.4,2016
+A Walk to Remember,Romance,English,7.3,2002
+The Conjuring,Horror,English,7.5,2013
+Insidious,Horror,English,6.8,2010
+Smile,Horror,English,6.6,2022
+Train to Busan,Horror,Korean,7.6,2016
+The Nun,Horror,English,5.3,2018
+3 Idiots,Comedy,Hindi,8.4,2009
+PK,Comedy,Hindi,8.1,2014
+Free Guy,Comedy,English,7.1,2021
+The Mask,Comedy,English,6.9,1994
+Jumanji,Comedy,English,6.9,2017
+Dangal,Drama,Hindi,8.3,2016
+Forrest Gump,Drama,English,8.8,1994
+The Pursuit of Happyness,Drama,English,8.0,2006
+Joker,Drama,English,8.4,2019
+Whiplash,Drama,English,8.5,2014
+Spirited Away,Animation,Japanese,8.6,2001
+Your Name,Animation,Japanese,8.4,2016
+Toy Story 4,Animation,English,7.7,2019
+Frozen II,Animation,English,6.8,2019
+Coco,Animation,English,8.4,2017
+Parasite,Thriller,Korean,8.5,2019
+Gone Girl,Thriller,English,8.1,2014
+Prisoners,Thriller,English,8.2,2013
+Shutter Island,Thriller,English,8.2,2010
+Se7en,Thriller,English,8.6,1995
+The Godfather,Crime,English,9.2,1972
+The Irishman,Crime,English,7.8,2019
+Heat,Crime,English,8.3,1995
+The Departed,Crime,English,8.5,2006
+Catch Me If You Can,Crime,English,8.1,2002
+Top Gun Maverick,Adventure,English,8.2,2022
+Life of Pi,Adventure,English,7.9,2012
+The Revenant,Adventure,English,8.0,2015
+Avatar,Adventure,English,7.9,2009
+Moana,Adventure,English,7.6,2016
